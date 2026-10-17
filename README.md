@@ -44,3 +44,12 @@ js/game.js          物理・入力・カメラ・ゲーム進行
 js/vendor/          three.js r147（MIT）
 legacy/             前バージョン
 ```
+
+## ライセンス
+本作品は [クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際（CC BY-NC-ND 4.0）](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja) で提供されます。全文は [LICENSE](LICENSE) を参照してください。
+
+- **表示**：作者名とライセンスを明記すれば共有できます
+- **非営利**：営利目的での利用はできません
+- **改変禁止**：改変したものを配布することはできません
+
+同梱の three.js（`js/vendor/`）は本ライセンスの対象外で、MITライセンスに従います。
